@@ -1,0 +1,10 @@
+node_modules/
+log/
+site/
+coverage/
+*.iml
+.idea
+.DS_Store
+.vscode/*
+coverage/
+package-lock.json

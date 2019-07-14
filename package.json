@@ -1,0 +1,23 @@
+{
+  "name": "js-algorithm",
+  "version": "1.0.0",
+  "description": "this is js-algorithm repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guopingxiao/fe-algorithm-base.git"
+  },
+  "keywords": [
+    "fe",
+    "algorithm"
+  ],
+  "author": "xiaoguoping",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guopingxiao/fe-algorithm-base/issues"
+  },
+  "homepage": "https://github.com/guopingxiao/fe-algorithm-base#readme"
+}
